@@ -1,22 +1,25 @@
 Text 2 Image
 
+https://github.com/jamieduk/Text-2-image-Python-GUI-CLI
+
+jnetai.com
+
+
+# Prepear files for use...
 
 sudo chmod +x *.sh
 
 
+# Run setup...
+
 ./setup.sh
 
 
+# Start gui
 
 ./start.sh
 
 
-
-/home/jay/Documents/Scripts/PYTHON/text-2-img/image_001.png
-
-
-
-https://imgur.com/a/fr02WjM
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
