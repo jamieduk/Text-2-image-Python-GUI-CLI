@@ -71,7 +71,7 @@ Features include:
 
 ---
 
-# CLI & GUI Version
+# CLI Version
 
 The same `run.py` can operate entirely from the command line.
 
@@ -252,8 +252,7 @@ Copyright (c) J~Net 2026
 
 Website:
 
-:contentReference[oaicite:4]{index=4}
-
+jnetai.com
 
 
 
