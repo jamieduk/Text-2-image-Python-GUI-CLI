@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # (c) J~Net 2026
+# https://github.com/jamieduk/Text-2-image-Python-GUI-CLI
 #
 # python3 run.py \
 #--text "Hello world" \
@@ -15,7 +16,6 @@
 # ./start.sh
 # python run.py
 #
-
 import os
 import sys
 import textwrap
